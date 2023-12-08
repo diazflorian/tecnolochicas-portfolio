@@ -1,5 +1,5 @@
 body {
-  background-color: #3F448C;
+  background-color: white;
 }
 
 /* Barra de navegacion */
@@ -17,7 +17,7 @@ body {
 /* Estilos generales */
 
 section {
-  background-color: #3F448C;
+  background-color: white;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -26,7 +26,7 @@ section {
 
 h1 {
   font-size: 2.5rem;
-  color: white;
+  color: black;
   font-family: 'Rubik Dirt', cursive;
 }
 
@@ -61,7 +61,7 @@ h1 {
 }
 
 .texto-negro {
-  color: #3F448C;
+  color: black;
 }
 
 .texto-blanco {
@@ -78,7 +78,6 @@ h1 {
 
 .hero-principal {
   padding: 3rem;
-  background-color: #3F448C;
 }
 
 .hero-imagen-desarrollador {
