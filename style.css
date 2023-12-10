@@ -5,13 +5,10 @@ body {
 /* Barra de navegacion */
 
 .navbar {
-  padding: 2rem;
-  background-color: #f5f6f7;
 }
 
 .navbar-collapse {
   align-items: center;
-  justify-content: space-between;  
 }
 
 /* Estilos generales */
@@ -32,7 +29,6 @@ h1 {
 
 .seccion-oscura {
   color: white;
-  background-color: #1b1b32;
 }
 
 .seccion-clara {
